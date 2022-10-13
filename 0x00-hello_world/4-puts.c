@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 #include <stdio.h>
 /**
  *main - Printing
