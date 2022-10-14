@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there
- * Return:0-no error,non zero value if error*/
+/**
+  * main-program entry point
+  * Return:0-no error,non zero value if error
+**/
 int main(void)
 {
 	int n;
