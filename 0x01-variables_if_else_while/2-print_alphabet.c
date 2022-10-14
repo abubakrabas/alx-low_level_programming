@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - main function print alphabet
+ * main - main function
  * Description:print alphabets in lowercase
  * Return: Return
  */
