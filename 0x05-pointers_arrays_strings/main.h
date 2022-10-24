@@ -1,5 +1,3 @@
-13 lines (11 sloc)  308 Bytes
-
 void reset_to_98(int *n);
 	void swap_int(int *a, int *b);
 	int _strlen(char *s);
